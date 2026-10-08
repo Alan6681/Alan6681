@@ -1,4 +1,4 @@
-# Hi, I'm Tonye Alanabo 👋
+# Hi, I'm Tonye Alanabo Amaegbe👋
 
 **ML & Software engineer** building AI automation systems for African businesses.
 Computer engineering student, based in Port-Harcourt, Nigeria.
